@@ -1,3 +1,3 @@
 - 🔭 I’m currently working on an internship in ESPN, The Disney company Brasil 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning python ,js, jsx, ts, tsx, html
 - 📫 How to reach me: g.eulaliacorrea@gmail.com
